@@ -1,0 +1,8 @@
+## SpringBoot默认读取配置文件名称：
+##application-prd.yml 生产环境配置文件
+##application-dev.yml 开发环境配置文件
+##application-test.yml 测试环境配置文件
+mayikt:
+  addres: test.mayikt.com
+  age: ${random.int(10)}
+  name: testmayikt

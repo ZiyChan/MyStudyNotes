@@ -1,0 +1,12 @@
+2020-12-05 04:33:49,245 INFO (StartupInfoLogger.java:50)- Starting App on PC-202004100854 with PID 329580 (E:\code\20201203\mayikt-thymeleaf\target\classes started by Administrator in E:\code\20201203\mayikt-thymeleaf)
+2020-12-05 04:33:49,248 INFO (SpringApplication.java:652)- The following profiles are active: prd
+2020-12-05 04:33:49,860 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8081 (http)
+2020-12-05 04:33:49,869 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-05 04:33:49,874 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-12-05 04:33:49,874 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2020-12-05 04:33:49,952 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-12-05 04:33:49,953 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 653 ms
+2020-12-05 04:33:50,088 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-05 04:33:50,214 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8081"]
+2020-12-05 04:33:50,233 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8081 (http) with context path '/mayikt'
+2020-12-05 04:33:50,235 INFO (StartupInfoLogger.java:59)- Started App in 1.396 seconds (JVM running for 1.941)

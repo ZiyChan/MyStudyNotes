@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "mayikt",
+      "type": "com.mayikt.entity.MayiktUserEntity",
+      "sourceType": "com.mayikt.entity.MayiktUserEntity"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mayikt.addres",
+      "type": "java.lang.String",
+      "sourceType": "com.mayikt.entity.MayiktUserEntity"
+    },
+    {
+      "name": "mayikt.age",
+      "type": "java.lang.String",
+      "sourceType": "com.mayikt.entity.MayiktUserEntity"
+    },
+    {
+      "name": "mayikt.name",
+      "type": "java.lang.String",
+      "sourceType": "com.mayikt.entity.MayiktUserEntity"
+    }
+  ],
+  "hints": []
+}
